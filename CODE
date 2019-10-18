@@ -10,7 +10,7 @@ import tensorflow as tf
 import re
 import time
 import pandas as pd
- 
+import os
  
  
 ########## PART 1 - DATA PREPROCESSING ##########
